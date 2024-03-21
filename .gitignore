@@ -1,0 +1,3 @@
+data/*
+*.gpkg
+.ipynb_checkpoints/*
